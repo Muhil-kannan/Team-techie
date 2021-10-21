@@ -27,7 +27,6 @@ In This tool it will gather all the data related to ip which
 are available at open source,With those details we can Check With ISP
 to catch the attacker
 
-
 To Use This Tool :
 **step 1:**
 	git clone https://github.com/Muhil-kannan/manthan-hackthon
