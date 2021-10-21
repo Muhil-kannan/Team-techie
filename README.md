@@ -6,25 +6,16 @@ WHICH ARE,
 3.TRACKING IP 
 
 1.**SENTIMENTAL ANALYSIS:**
-
-It can perform in 2 languages (English,Spanish)
-When you enter some sentance or word it will diplay whether it is a
-neutral word or negative word 
-	So,it will be helpfull for the person to understand whats
-going on,in their conversation 
-
+When you enter a word or sentence , this will display whether it is neutral or a negative word. 
+It can be helpful for a person to understand What's going on in the carried conversation. 
+Other than English, this can also perform in Spanish.
 
 2.**INSTAGRAM USER INFORMATION  GATHERING :**
-
-It will loaded within 2 mins (Depands on your connectivity)
-
-   When we enter the user name of a person it will detect the info of 
-the user within minutes.So we can easily Gather info of Victim and 
-that is esay in exploitation
-
+Loads within 2 minutes ( may change according to your connectivity).
+When we enter the username of a person ,  it detects the information of that person within minutes. So we can gather information about the victim and that's easy in exploitation.
 3.**TRACKING IP:**
-  Tool which gathers all the data related to ip which
-are available at open source,With that details we can Check With ISP
+  This Tool which gathers all the data related to IP which
+are available at open source,With those details we can Check With ISP
 to catch the attacker
 
 Working Video - https://youtu.be/9NFb03669Yo
