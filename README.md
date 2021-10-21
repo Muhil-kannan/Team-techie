@@ -15,6 +15,7 @@ going on,in their conversation
 
 
 2.**INSTAGRAM USER INFORMATION  GATHERING :**
+
 It will loaded within 2 mins (Depands on your connectivity)
 
    When we enter the user name of a person it will detect the info of 
