@@ -29,16 +29,23 @@ to catch the attacker
 
 To Use This Tool :
 **step 1:**
+
 	git clone https://github.com/Muhil-kannan/manthan-hackthon
-**step 2:** 
+	
+**step 2:**
+
 	cd manthan-hackthon
 **step 3:**
+
 	cd Team-Techie
 **step 4:**
+
 	pip install -r requirements.txt
 **step 5:**
+
 	pip install -r requirements2.txt	
 **step 6:**
+
 	python3 main.py
 	
 Now You can see your choice list and work on 
