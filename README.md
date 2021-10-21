@@ -23,9 +23,8 @@ the user within minutes.So we can easily Gather info of Victim and
 that is esay in exploitation
 
 3.**TRACKING IP:**
-
-In This tool it will gather all the data related to ip which
-are available at open source,With those details we can Check With ISP
+  Tool which gathers all the data related to ip which
+are available at open source,With that details we can Check With ISP
 to catch the attacker
 
 Working Video - https://youtu.be/9NFb03669Yo
