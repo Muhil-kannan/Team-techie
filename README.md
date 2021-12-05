@@ -25,11 +25,11 @@ To Use This Tool :
 
 **step 1:**
 
-	git clone https://github.com/Muhil-kannan/manthan-hackthon
+	git clone https://github.com/Muhil-kannan/Team-techie
 	
 **step 2:**
 
-	cd manthan-hackthon
+	cd Team-techie
 **step 3:**
 
 	cd Team-Techie
